@@ -24,5 +24,5 @@
 <script src="resources/vendor/jquery/dist/jquery.min.js"></script>
 <script src="resources/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="resources/vendor/notifyjs/dist/notify.js"></script>
-<script src="resources/js/app.js"></script>
+
 </html>
